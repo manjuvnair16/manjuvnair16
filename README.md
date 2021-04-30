@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I have been learning coding through freeCodeCamp tutorials and have saved my project codes in the following GitHub repositories:
 
 **JavaScript**
-freeCodeCamp JavaScript projects: 
+freeCodeCamp JavaScript projects: [manjuvnair16/fccJavaScriptProjects]() 
 1. Palindrome Checker
 2. Roman Numeral Converter
 3. Caesars Cipher - decoding a ROT13 cipher
