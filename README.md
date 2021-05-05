@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 I have been learning coding through freeCodeCamp tutorials and have logged my milestone project codes in the following GitHub repositories:
 
 **JavaScript**: [manjuvnair16/fccJavaScriptProjects](https://github.com/manjuvnair16/fccJavaScriptProjects)   
-
 freeCodeCamp JavaScript projects:  
 1. Palindrome Checker
 2. Roman Numeral Converter
@@ -28,8 +27,8 @@ freeCodeCamp JavaScript projects:
 4. Telephone Number Validator (validating a US phone number)
 5. Cash Register
 
-**FrontEnd Development (React,HTML, CSS)**: [manjuvnair16/fccFrontEndDevelopmentProjects](https://github.com/manjuvnair16/fccFrontEndDevelopmentProjects)  
 
+**FrontEnd Development (React,HTML, CSS)**: [manjuvnair16/fccFrontEndDevelopmentProjects](https://github.com/manjuvnair16/fccFrontEndDevelopmentProjects)  
 freeCodeCamp FrontEnd Development projects:
 1. [Random Quote Generator](https://manjuvnair16.github.io/RandomQuoteGenerator/) 
 2. [Markdown Previewer](https://manjuvnair16.github.io/MarkdownPreviewer/)
@@ -37,8 +36,8 @@ freeCodeCamp FrontEnd Development projects:
 4. [Calculator](https://manjuvnair16.github.io/Calculator/)
 5. [Pomodoro Timer](https://manjuvnair16.github.io/PomodoroTimer/)
 
-**Python**: [manjuvnair16/fcc-Python-Projects](https://github.com/manjuvnair16/fcc-Python-Projects)  
 
+**Python**: [manjuvnair16/fcc-Python-Projects](https://github.com/manjuvnair16/fcc-Python-Projects)  
 freeCodeCamp Scientific Computing with Python projects:
 1. Arithmetic Formatter 
 2. Time Calculator
