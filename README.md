@@ -1,5 +1,4 @@
 ### 👋 Hi there, I am Manju Nair.
-Passionate programmer (Python, JavaScript) and a Data Science enthusiast. 
 
 As a woman returner, I am pursuing my interests to learn & grow in the field of software and data. I have been upskilling myself through different courses on freeCodeCamp, PA Women in Tech and other such platforms, and have logged my milestone project codes in the following GitHub repositories:
 <!--
