@@ -1,6 +1,7 @@
 ### 👋 Hi there, I am Manju Nair.
 
 As a woman returner, I am pursuing my interests to learn & grow in the field of software and data. 
+
 I have been upskilling myself through different courses on freeCodeCamp, PA Women in Tech and other such platforms, and have logged my milestone project codes in the following GitHub repositories:
 <!--
 **manjuvnair16/manjuvnair16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
