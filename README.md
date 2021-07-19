@@ -1,7 +1,6 @@
-### Hi there 👋
+### 👋 Hi there, I am Manju Nair.
 
-I am Manju Nair.
-
+I am a passionate programmer (Python, JavaScript) and a Data Science enthusiast. As a woman returner, I am pursuing my interests to learn & grow in the field of software and data. 
 <!--
 **manjuvnair16/manjuvnair16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I have been learning coding through freeCodeCamp tutorials and have logged my milestone project codes in the following GitHub repositories:
+I have been upskilling myself through different courses on freeCodeCamp, PA Women in Tech and other such platforms, and have logged my milestone project codes in the following GitHub repositories:
 
 **JavaScript**: [manjuvnair16/fccJavaScriptProjects](https://github.com/manjuvnair16/fccJavaScriptProjects)   
 freeCodeCamp JavaScript projects:  
