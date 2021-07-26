@@ -46,5 +46,9 @@ freeCodeCamp Scientific Computing with Python projects:
 4. Polygon Area Calculator
 5. Probability Calculator
 
+PA Women in Tech - Python Course Final Project: 
+1. Adventure Game: Fighting the Monsters!
+[manjuvnair16/python-course/final-project](https://github.com/manjuvnair16/python-course/final-project) 
+
 
 
