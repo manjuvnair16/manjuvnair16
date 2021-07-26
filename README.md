@@ -48,7 +48,7 @@ freeCodeCamp Scientific Computing with Python projects:
 
 PA Women in Tech - Python Course Final Project: 
 1. Adventure Game: Fighting the Monsters!
-[manjuvnair16/python-course/final-project](https://github.com/manjuvnair16/python-course/final-project) 
+[manjuvnair16/python-course/final-project](https://github.com/manjuvnair16/python-course/tree/main/final-project) 
 
 
 
