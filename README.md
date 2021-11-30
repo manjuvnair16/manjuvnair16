@@ -48,7 +48,7 @@ freeCodeCamp Scientific Computing with Python projects: [manjuvnair16/fcc-Python
 5. Probability Calculator
 
 PA Women in Tech - Python Course Final Project: [manjuvnair16/python-course/final-project](https://github.com/manjuvnair16/python-course/tree/main/final-project) 
-1. Adventure Game: Fighting the Monsters!
+1. Adventure Game: Monster Romp!
 
 
 
